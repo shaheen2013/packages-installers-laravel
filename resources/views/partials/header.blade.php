@@ -1,0 +1,1 @@
+@include('LaravelInstaller::partials.styles')
